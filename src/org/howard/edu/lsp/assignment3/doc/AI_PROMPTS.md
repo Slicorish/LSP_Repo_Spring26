@@ -1,0 +1,2 @@
+The link to the ChatGPT session that I used to reformat my ETLPipeline assignment is here: https://chatgpt.com/share/6998a354-2d14-800f-9923-157221ae4e6b 
+This link includes all of the prompts that I asked, along with the responses in the chat. I figured this would be easier than copying and pasting each individual prompt and response into the doc here. 
