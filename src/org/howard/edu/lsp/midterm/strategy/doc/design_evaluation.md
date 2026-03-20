@@ -1,0 +1,4 @@
+Question: Evaluate the design of the PriceCalculator class. Explain why the current implementation may lead to maintenance or extensibility problems as the system evolves.
+
+Answer: 
+The way that the current PriceCalculator Class  is structured, pricing rules are implemented for every customer type  added. This could become a scalability issue if you have a significant number of different conditions to consider. There is no separation betwen the different types. These values are also hard-coded as strings, rather than as retrieved through getter methods that might be specific to customer. Additionally, because all types are handled in one method, you cannot test the princing rules separately in their own individual structures. There is also no error handling involved, in case a customer type is invalid. 

@@ -1,0 +1,3 @@
+Question: In 2-3 sentences, explain why TaskManager collaborates with Task, but Task does not collaborate with TaskManager. Your explanation should reference the responsibilities listed in the CRC cards.
+
+Answer: TaskManager collaborates with Task because its responsibilities (storing, locating, and filtering tasks ) require it to directly access Task objects and their data (e.g., calling getTaskId() and getStatus()). Task, on the other hand, is only responsible for managing its own data ( ID, description, and status), so it doesn't have to interact with TaskManager to fulfill those responsibilities

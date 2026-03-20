@@ -1,0 +1,1 @@
+For this portion I didn't use any AI nor did I reference any lecture content

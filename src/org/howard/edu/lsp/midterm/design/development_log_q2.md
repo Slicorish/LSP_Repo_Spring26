@@ -1,0 +1,1 @@
+For this segment I didn't use any AI but I did referer to the Defining Objects with CRC Lecture

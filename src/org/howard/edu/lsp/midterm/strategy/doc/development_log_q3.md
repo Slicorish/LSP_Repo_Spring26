@@ -1,0 +1,3 @@
+For this question, I used Claude to double check my methodology for converting the orginal code given into the strategy method. The link for that chat can be found here: https://claude.ai/share/3a724acf-bc80-4b3c-b8ec-fcb781f5e49f 
+
+I then used the lecture slides for Design Pattern Part_one for reference to check my logic and implementation against my code and what Claude had suggested, to see if it aligned with the lectures
