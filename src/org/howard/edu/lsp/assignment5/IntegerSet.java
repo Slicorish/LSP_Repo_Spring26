@@ -167,9 +167,9 @@ public class IntegerSet {
      */
     public IntegerSet diff(IntegerSet intSetb) {
         IntegerSet result = new IntegerSet();
-        for (int item : this.set) {
-            if (!intSetb.set.contains(item)) {
-                result.set.add(item);
+        for (int i : this.set) {
+            if (!intSetb.set.contains(i)) {
+                result.set.add(i);
             }
         }
         return result;
